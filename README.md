@@ -1,4 +1,4 @@
-LogoMaker
+Logo Maker
 =========
 
 * Korean  
@@ -10,3 +10,4 @@ LogoMaker
 * English  
 Windows Store App Logo resize tool.  
 Reference: http://blogs.msdn.com/b/shintak/archive/2013/01/01/10418997.aspx
+
